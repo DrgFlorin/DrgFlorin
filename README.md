@@ -12,7 +12,7 @@ const florin_data = {
   age: 26,
   code: [Javascript, Typescript, HTML, CSS, SQL, nodejs],
   tools: [React, Redux, Recoil, Node, Styled-Components, Docker, express],
-  hobby: [Arduino, Electronics, Pohotography, Mountain_Bikin, Sewing]
+  hobby: [Arduino, Electronics, Photography, Mountain_Bikin]
 }
 ```
 <b>I love working on new stuff with new technologies</b> :)</em>
